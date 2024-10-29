@@ -7,6 +7,8 @@ from geopy.distance import geodesic
 import math
 import numpy as np
 
+# test
+
 # Refactored base map components
 def base_map(landfill_coords, sewage_coords, sample_coords):
     fig, ax = setup_map(sample_coords)
